@@ -1,0 +1,23 @@
+<svg width="1200" height="800" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0284c7"/>
+      <stop offset="100%" stop-color="#22c55e"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="800" fill="url(#g)"/>
+  <text x="50%" y="45%" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="72" fill="#ffffff">Alahan Panjang</text>
+  <text x="50%" y="55%" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="42" fill="#e2e8f0">Bukit terasering hijau yang menawan</text>
+</svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800">
+  <defs>
+    <linearGradient id="g1" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#0f766e"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="800" fill="url(#g1)"/>
+  <path d="M0 600 C300 520 450 460 600 520 C750 580 900 520 1200 560 L1200 800 L0 800 Z" fill="#0ea5e9" opacity="0.7"/>
+  <path d="M0 680 C260 620 420 580 600 640 C780 700 940 660 1200 700 L1200 800 L0 800 Z" fill="#22c55e" opacity="0.6"/>
+  <text x="50%" y="42%" fill="#f8fafc" font-family="Inter, sans-serif" font-size="72" font-weight="800" text-anchor="middle">Alahan Panjang</text>
+  <text x="50%" y="52%" fill="#e2e8f0" font-family="Inter, sans-serif" font-size="36" text-anchor="middle">Bukit hijau dan terasering sawah</text>
+</svg>
